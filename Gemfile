@@ -15,6 +15,7 @@ gem "sqlite3"
 gem "turbolinks", "~> 5"
 gem "uglifier", ">= 1.3.0"
 
+gem "parser", "~> 2.1"
 gem "rubocop", "~> 0.54.0", require: false
 
 group :development, :test do
